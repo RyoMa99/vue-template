@@ -1,4 +1,4 @@
-# day7
+# default template
 
 ## Project setup
 ```
